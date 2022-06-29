@@ -1,1 +1,4 @@
- script that prints the absolute path name of the current working directory
+
+[6~[6~
+h
+	000
